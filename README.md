@@ -203,7 +203,7 @@ In my analysis, I formulated various questions to explore the dataset comprehens
     ```
     
   - **Finding:** ***State Wise Gender Distribution***
-  ![banner](Assets/StateWiseGenderDistribution.jpg)
+  ![banner](Assets/StateWiseGenderDistribution.png)
 
 - **Actual population in previous census and in current census.** <br>
 
@@ -224,7 +224,7 @@ In my analysis, I formulated various questions to explore the dataset comprehens
     ```
     
   - **Finding:** ***State Wise Population Change***
-  ![banner](Assets/StateWiseGenderDistribution.jpg)
+  ![banner](Assets/StateWiseGenderDistribution.png)
 
 - **How the change in population influenced the area km2 of the population.** <br>
 
